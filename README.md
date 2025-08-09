@@ -4,11 +4,11 @@
 
 
 
- \*\*Project Goal\*\*
+Project Goal
 
 
 
-\* \*\*Sales Report\*\*
+Sales Report
 
 
 
@@ -18,7 +18,7 @@
 
 
 
- \*\*Finance Report\*\*
+ Finance Report
 
 
 
@@ -32,7 +32,7 @@
 
 
 
- \*\*Purpose of Sales Analytics\*\*
+Purpose of Sales Analytics
 
 
 
@@ -40,7 +40,7 @@ Enable Atliq Hardware to \*\*monitor and evaluate sales activities\*\*, identify
 
 
 
-\*\*Importance of Analyzing Sales Data\*\*
+Importance of Analyzing Sales Data
 
 
 
@@ -52,7 +52,7 @@ Enable Atliq Hardware to \*\*monitor and evaluate sales activities\*\*, identify
 
 
 
-\*\*Role of Reports\*\*
+Role of Reports
 
 
 
@@ -68,7 +68,7 @@ Enable Atliq Hardware to \*\*monitor and evaluate sales activities\*\*, identify
 
 
 
- \*\*Purpose of Financial Analytics\*\*
+ Purpose of Financial Analytics
 
 
 
@@ -76,7 +76,7 @@ Provide clear insights into \*\*financial performance\*\* to aid strategic plann
 
 
 
-\*\*Importance of Analyzing Finance Data\*\*
+Importance of Analyzing Finance Data
 
 
 
@@ -88,7 +88,7 @@ Provide clear insights into \*\*financial performance\*\* to aid strategic plann
 
 
 
-\*\*Role of Reports\*\*
+Role of Reports
 
 
 
@@ -102,11 +102,11 @@ Provide clear insights into \*\*financial performance\*\* to aid strategic plann
 
 
 
- \*\*Tools \& Techniques Used\*\*
+Tools \& Techniques Used
 
 
 
-\* \*\*Microsoft Excel\*\*
+ \*\*Microsoft Excel\*\*
 
 
 
@@ -126,7 +126,7 @@ Provide clear insights into \*\*financial performance\*\* to aid strategic plann
 
 
 
- \*\*Key Findings\*\*
+Key Findings
 
 
 
@@ -153,7 +153,7 @@ Financial Insights
 
 
 
- \*\*Impact\*\*
+ Impact
 
 
 
