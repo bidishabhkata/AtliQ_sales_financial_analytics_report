@@ -166,7 +166,8 @@ Financial Insights
 
 Report preview:
 
-![Pink and Maroon Modern Project Proposal Cover Page  A4_page-0001](https://github.com/user-attachments/assets/a8c58009-a74c-4a86-8e49-7c2b24a96c42)
+![Pink and Maroon Modern Project Proposal Cover Page  A4_page-0001](https://github.com/user-attachments/assets/a1ce4c27-333c-4cc6-abfb-178fe81d6cb3)
+
 ![cutomer performance report_page-0001](https://github.com/user-attachments/assets/90ad62eb-07fb-4dfc-a92f-68fdff91c03c)
 ![cutomer performance report_page-0002](https://github.com/user-attachments/assets/993e6afe-89b7-4837-9de4-76311778ec90)
 ![market performance report_page-0001](https://github.com/user-attachments/assets/fc20faac-ce18-4a13-8cc8-c2fd00e1347b)
