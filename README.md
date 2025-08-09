@@ -1,6 +1,6 @@
 
 
-\## 📊 Atliq Hardware – Sales \& Financial Analytics
+\ 📊 Atliq Hardware – Sales \& Financial Analytics
 
 
 
