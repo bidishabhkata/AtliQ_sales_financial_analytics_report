@@ -163,19 +163,26 @@ Financial Insights
 
 \* Supported \*\*profitability improvement\*\* through customer and product-level analysis.
 
-![GM quarters_page-0001](https://github.com/user-attachments/assets/b9d378d8-23c1-445c-8507-46104f5c5f46)
-![P l for market_page-0001](https://github.com/user-attachments/assets/20fd2e5a-9029-4b3b-9601-dfc6cbb0484e)
-![p l by month_page-0001](https://github.com/user-attachments/assets/ac6c48b0-97e7-4b81-b113-ac1aca2240d1)
-![p l yr_page-0001](https://github.com/user-attachments/assets/cd566753-46fc-403d-9c8c-6ce2d5e2d96f)
-![new product_page-0001](https://github.com/user-attachments/assets/b7357223-d388-41e8-b4f9-b3dda1964b94)
-![top bottom 5_page-0001](https://github.com/user-attachments/assets/fa066b74-39ed-437e-acc0-f9e2473560de)
-![top 10 product_page-0001](https://github.com/user-attachments/assets/068cd395-e212-49a4-901d-c980d5a9e8f4)
-![top5cty_page-0001](https://github.com/user-attachments/assets/1f0f9234-10fe-4827-9ef3-789c50dd0b50)
-![division_page-0001](https://github.com/user-attachments/assets/c5c4ba67-cb78-4664-9281-468a6df5b0fd)
-![market performance report_page-0001](https://github.com/user-attachments/assets/fc20faac-ce18-4a13-8cc8-c2fd00e1347b)
-![cutomer performance report_page-0002](https://github.com/user-attachments/assets/993e6afe-89b7-4837-9de4-76311778ec90)
-![cutomer performance report_page-0001](https://github.com/user-attachments/assets/90ad62eb-07fb-4dfc-a92f-68fdff91c03c)
+
+Report preview:
+
 ![Pink and Maroon Modern Project Proposal Cover Page  A4_page-0001](https://github.com/user-attachments/assets/a8c58009-a74c-4a86-8e49-7c2b24a96c42)
+![cutomer performance report_page-0001](https://github.com/user-attachments/assets/90ad62eb-07fb-4dfc-a92f-68fdff91c03c)
+![cutomer performance report_page-0002](https://github.com/user-attachments/assets/993e6afe-89b7-4837-9de4-76311778ec90)
+![market performance report_page-0001](https://github.com/user-attachments/assets/fc20faac-ce18-4a13-8cc8-c2fd00e1347b)
+![division_page-0001](https://github.com/user-attachments/assets/c5c4ba67-cb78-4664-9281-468a6df5b0fd)
+![top5cty_page-0001](https://github.com/user-attachments/assets/1f0f9234-10fe-4827-9ef3-789c50dd0b50)
+![top 10 product_page-0001](https://github.com/user-attachments/assets/068cd395-e212-49a4-901d-c980d5a9e8f4)
+![top bottom 5_page-0001](https://github.com/user-attachments/assets/fa066b74-39ed-437e-acc0-f9e2473560de)
+![new product_page-0001](https://github.com/user-attachments/assets/b7357223-d388-41e8-b4f9-b3dda1964b94)
+![p l yr_page-0001](https://github.com/user-attachments/assets/cd566753-46fc-403d-9c8c-6ce2d5e2d96f)
+![p l by month_page-0001](https://github.com/user-attachments/assets/ac6c48b0-97e7-4b81-b113-ac1aca2240d1)
+![P l for market_page-0001](https://github.com/user-attachments/assets/20fd2e5a-9029-4b3b-9601-dfc6cbb0484e)
+![GM quarters_page-0001](https://github.com/user-attachments/assets/b9d378d8-23c1-445c-8507-46104f5c5f46)
+
+
+
+
 
 
 
